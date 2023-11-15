@@ -1,7 +1,7 @@
-import 'package:favorite_places/screens/place_detail.dart';
+import 'package:favourite_places_app/screens/place_detail.dart';
 import 'package:flutter/material.dart';
 
-import 'package:favorite_places/models/place.dart';
+import 'package:favourite_places_app/models/place.dart';
 
 class PlacesList extends StatelessWidget {
   const PlacesList({super.key, required this.places});
